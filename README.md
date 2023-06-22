@@ -1,1 +1,3 @@
-# Mechine-Learning-
+# Mechine-Learning
+
+Currently learning mechine-learning.
